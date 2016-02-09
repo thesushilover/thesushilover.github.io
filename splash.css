@@ -3,4 +3,5 @@ body {
 }
 .header {
   float: right;
+  text-align: center;
 }
