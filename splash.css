@@ -3,4 +3,5 @@ body {
 }
 .header h1{
   text-align: left;
+  width: 640px;
 }
