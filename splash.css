@@ -15,4 +15,5 @@ body {
 .footer {
     clear: both;
     text-align: center;
+    postion: fixed;
 }
