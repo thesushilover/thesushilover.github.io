@@ -16,8 +16,8 @@ body {
     clear: both;
     text-align: center;
     position:fixed;
-   left:20px;
-   bottom:0px;
+   left:0px;
+   bottom:20px;
    height:30px;
    width:100%;
    background:#999;
