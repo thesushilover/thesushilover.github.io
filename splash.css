@@ -9,14 +9,11 @@ body {
     text-align: center;
     padding: 0;
     margin: 0;
+    float: bottom;
 }
 .nav li {
     list-style-type: none;
     display: inline;
-    clear: both;
-    text-align: center;
-    padding: 0;
-    margin: 0;
 }
 .footer {
     clear: both;
