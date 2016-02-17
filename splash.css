@@ -7,6 +7,8 @@ body {
 .nav ul {
     clear: both;
     text-align: center;
+    padding: 0;
+    margin: 0;
 }
 .nav li {
     list-style-type: none;
