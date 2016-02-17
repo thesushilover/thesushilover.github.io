@@ -6,11 +6,11 @@ body {
 }
 .nav ul {
     clear: both;
+    text-align: center;
 }
 .nav li {
     list-style-type: none;
     display: inline;
-    padding-left: 5px;
 }
 .footer {
     clear: both;
