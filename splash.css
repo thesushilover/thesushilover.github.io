@@ -22,7 +22,7 @@ body {
    width:100%;
 }
 .donutbackground {
-  background-image: url("https://savvler-prod.s3-ap-northeast-1.amazonaws.com/lists/2617/33564-Donuts-.jpg/original?1452773152");
+  background-color: #845;
 }
 h3 {
   color: #845;
