@@ -25,9 +25,19 @@ h3 {
   color: #845;
   text-align: center;
 }
+.abc ul {
+    text-align: center;
+    list-style-type: none;
+    display: inline;
+     } 
 #very_special {
     color: white;
     }
 ul li{
  font-size: 29px;
+}
+.abc {
+  border-style: solid;
+    border-color: white;
+}
 }
